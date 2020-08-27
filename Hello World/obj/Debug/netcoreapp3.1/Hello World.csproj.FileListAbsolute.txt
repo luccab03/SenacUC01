@@ -1,0 +1,12 @@
+/Users/luccab/Desktop/Curso/UC03/Hello World/bin/Debug/netcoreapp3.1/Hello World.deps.json
+/Users/luccab/Desktop/Curso/UC03/Hello World/bin/Debug/netcoreapp3.1/Hello World.runtimeconfig.json
+/Users/luccab/Desktop/Curso/UC03/Hello World/bin/Debug/netcoreapp3.1/Hello World.runtimeconfig.dev.json
+/Users/luccab/Desktop/Curso/UC03/Hello World/bin/Debug/netcoreapp3.1/Hello World.dll
+/Users/luccab/Desktop/Curso/UC03/Hello World/bin/Debug/netcoreapp3.1/Hello World.pdb
+/Users/luccab/Desktop/Curso/UC03/Hello World/obj/Debug/netcoreapp3.1/Hello World.csprojAssemblyReference.cache
+/Users/luccab/Desktop/Curso/UC03/Hello World/obj/Debug/netcoreapp3.1/Hello World.AssemblyInfoInputs.cache
+/Users/luccab/Desktop/Curso/UC03/Hello World/obj/Debug/netcoreapp3.1/Hello World.AssemblyInfo.cs
+/Users/luccab/Desktop/Curso/UC03/Hello World/obj/Debug/netcoreapp3.1/Hello World.csproj.CoreCompileInputs.cache
+/Users/luccab/Desktop/Curso/UC03/Hello World/obj/Debug/netcoreapp3.1/Hello World.dll
+/Users/luccab/Desktop/Curso/UC03/Hello World/obj/Debug/netcoreapp3.1/Hello World.pdb
+/Users/luccab/Desktop/Curso/UC03/Hello World/obj/Debug/netcoreapp3.1/Hello World.genruntimeconfig.cache

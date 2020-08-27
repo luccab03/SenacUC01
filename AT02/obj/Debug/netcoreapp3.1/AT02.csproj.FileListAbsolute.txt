@@ -1,0 +1,12 @@
+/Users/luccab/Desktop/Curso/UC03/AT02/bin/Debug/netcoreapp3.1/AT02.deps.json
+/Users/luccab/Desktop/Curso/UC03/AT02/bin/Debug/netcoreapp3.1/AT02.runtimeconfig.json
+/Users/luccab/Desktop/Curso/UC03/AT02/bin/Debug/netcoreapp3.1/AT02.runtimeconfig.dev.json
+/Users/luccab/Desktop/Curso/UC03/AT02/bin/Debug/netcoreapp3.1/AT02.dll
+/Users/luccab/Desktop/Curso/UC03/AT02/bin/Debug/netcoreapp3.1/AT02.pdb
+/Users/luccab/Desktop/Curso/UC03/AT02/obj/Debug/netcoreapp3.1/AT02.csprojAssemblyReference.cache
+/Users/luccab/Desktop/Curso/UC03/AT02/obj/Debug/netcoreapp3.1/AT02.AssemblyInfoInputs.cache
+/Users/luccab/Desktop/Curso/UC03/AT02/obj/Debug/netcoreapp3.1/AT02.AssemblyInfo.cs
+/Users/luccab/Desktop/Curso/UC03/AT02/obj/Debug/netcoreapp3.1/AT02.csproj.CoreCompileInputs.cache
+/Users/luccab/Desktop/Curso/UC03/AT02/obj/Debug/netcoreapp3.1/AT02.dll
+/Users/luccab/Desktop/Curso/UC03/AT02/obj/Debug/netcoreapp3.1/AT02.pdb
+/Users/luccab/Desktop/Curso/UC03/AT02/obj/Debug/netcoreapp3.1/AT02.genruntimeconfig.cache
